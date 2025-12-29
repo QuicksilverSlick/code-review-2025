@@ -1,0 +1,14 @@
+{
+  "name": "code-review-marketplace",
+  "description": "Code review and security audit plugins for Claude Code",
+  "owner": {
+    "name": "QuicksliverAI"
+  },
+  "plugins": [
+    {
+      "name": "code-review-2025",
+      "source": ".",
+      "description": "Advanced 2025 full-stack architectural audit with OWASP 2025, MCP, Agentic NHI security, WCAG 3.0, and Green Software metrics"
+    }
+  ]
+}
