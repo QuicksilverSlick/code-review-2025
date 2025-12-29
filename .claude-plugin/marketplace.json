@@ -2,7 +2,7 @@
   "name": "code-review-marketplace",
   "description": "Code review and security audit plugins for Claude Code",
   "owner": {
-    "name": "QuicksliverAI"
+    "name": "QuicksilverSlick"
   },
   "plugins": [
     {
